@@ -6,4 +6,4 @@
 
 # Remaining are Special Character ( !, @, #, $, \* …..)
 
-### 1. Check whether a character is a vowel or consonant :
+### 1. Check whether a character is a vowel or consonant : https://github.com/Rishipan/PrepInsta-100/blob/main/05.%20Operations%20on%20Strings/01.cpp
