@@ -5,3 +5,5 @@
 # Digits ( 48 – 57 )
 
 # Remaining are Special Character ( !, @, #, $, \* …..)
+
+### 1. Check whether a character is a vowel or consonant :
